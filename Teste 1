@@ -1,0 +1,9 @@
+name = Carlos
+
+age = 23
+
+degree = bacharelor's in Public Administration
+
+print len (degree)
+
+print degree.upper()
